@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reatividade-no-pages/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reatividade-no-pages/static/js/main.4c51867c.chunk.js",
+    "main.js.map": "/reatividade-no-pages/static/js/main.4c51867c.chunk.js.map",
+    "runtime-main.js": "/reatividade-no-pages/static/js/runtime-main.e57c6b40.js",
+    "runtime-main.js.map": "/reatividade-no-pages/static/js/runtime-main.e57c6b40.js.map",
+    "static/js/2.593b09c5.chunk.js": "/reatividade-no-pages/static/js/2.593b09c5.chunk.js",
+    "static/js/2.593b09c5.chunk.js.map": "/reatividade-no-pages/static/js/2.593b09c5.chunk.js.map",
+    "index.html": "/reatividade-no-pages/index.html",
+    "precache-manifest.d66bd779218a288d00359d2be1f2679d.js": "/reatividade-no-pages/precache-manifest.d66bd779218a288d00359d2be1f2679d.js",
+    "service-worker.js": "/reatividade-no-pages/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reatividade-no-pages/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.593b09c5.chunk.js.LICENSE.txt": "/reatividade-no-pages/static/js/2.593b09c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e57c6b40.js",
+    "static/js/2.593b09c5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4c51867c.chunk.js"
+  ]
+}
